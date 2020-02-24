@@ -16,6 +16,8 @@ This is required because our teaching system works to make sure we don't deploy
 broken git repositories 😂. Cloning from the URL above, into a new directory is the
 best way to complete this lab.
 
+complete
+
 ## Introduction
 
 We've discussed how merge conflicts happen and how we can solve them. Let's work
